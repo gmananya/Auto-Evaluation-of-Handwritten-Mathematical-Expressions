@@ -5,8 +5,8 @@ Aim of this project is to digitize the steps of solving a mathematical equation 
 ## Workflow
 
 The overall solution can be divided into the following two parts:
-  + **Workspace Detection Module**
-  + **Analysis Module**
+  + Workspace Detection Module
+  + Analysis Module
   
   **Workspace Detection module** is detects multiple workspaces in a given sheet of paper using pre-defined markers.
   
